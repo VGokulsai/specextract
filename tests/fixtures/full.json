@@ -1,0 +1,77 @@
+{
+  "url": "https://fancy.example.com/",
+  "title": "Fancy Co",
+  "page": {
+    "background": "rgb(10, 10, 12)",
+    "color": "rgb(240, 240, 240)",
+    "font": "Söhne",
+    "size": "16px",
+    "leading": "26px"
+  },
+  "type": [
+    {
+      "tag": "H1",
+      "size": "64px",
+      "weight": "800",
+      "tracking": "-2.56px",
+      "leading": "68px",
+      "color": "rgb(240, 240, 240)",
+      "font": "Söhne",
+      "sample": "Big hero headline"
+    },
+    {
+      "tag": "H2",
+      "size": "40px",
+      "weight": "700",
+      "tracking": "-0.8px",
+      "leading": "48px",
+      "color": "rgb(240, 240, 240)",
+      "font": "Söhne",
+      "sample": "Section title"
+    },
+    {
+      "tag": "P",
+      "size": "18px",
+      "weight": "400",
+      "tracking": "0px",
+      "leading": "28px",
+      "color": "rgb(200, 200, 205)",
+      "font": "Söhne Mono",
+      "sample": "Body copy explaining things at length"
+    },
+    {
+      "tag": "A",
+      "size": "16px",
+      "weight": "500",
+      "tracking": "0.1px",
+      "leading": "24px",
+      "color": "rgb(120, 170, 255)",
+      "font": "Inter",
+      "sample": "Read more"
+    },
+    {
+      "tag": "CODE",
+      "size": "14px",
+      "weight": "400",
+      "tracking": "0px",
+      "leading": "20px",
+      "color": "rgb(255, 210, 130)",
+      "font": "IBM Plex Mono",
+      "sample": "npm install"
+    }
+  ],
+  "radii": [["8px", 40], ["9999px", 12], ["4px", 6]],
+  "transitions": [
+    ["all 0.2s ease-in-out", 30],
+    ["opacity 0.15s cubic-bezier(0.4, 0, 0.2, 1)", 10]
+  ],
+  "maxWidths": [["1200px", 5], ["720px", 3]],
+  "sectionPadding": [["96px / 24px", 4], ["48px / 24px", 2]],
+  "gradients": {
+    "count": 3,
+    "sample": "linear-gradient(180deg, rgba(255,255,255,0.08), rgba(255,255,255,0))"
+  },
+  "variableCount": 42,
+  "height": 8400,
+  "sections": 7
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://example.com",
+  "title": "Example",
+  "page": { "background": "#fff", "color": "#111", "font": "Inter", "size": "16px", "leading": "24px" },
+  "type": [
+    { "tag": "H1", "size": "48px", "weight": "700", "tracking": "-1.2px", "leading": "56px", "color": "#111", "font": "Inter", "sample": "Hi" }
+  ],
+  "radii": [],
+  "transitions": [],
+  "maxWidths": [],
+  "sectionPadding": [],
+  "gradients": { "count": 0, "sample": "" },
+  "variableCount": 1,
+  "height": 500,
+  "sections": 1
+}
+'copy the JSON above into a file, then: py -3 spec.py that-file.json'

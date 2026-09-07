@@ -1,0 +1,31 @@
+{
+  "url": "https://example.com",
+  "title": "Example",
+  "page": {
+    "background": "rgb(255, 255, 255)",
+    "color": "rgb(17, 17, 17)",
+    "font": "Inter",
+    "size": "16px",
+    "leading": "24px"
+  },
+  "type": [
+    {
+      "tag": "H1",
+      "size": "48px",
+      "weight": "700",
+      "tracking": "-1.2px",
+      "leading": "56px",
+      "color": "rgb(17, 17, 17)",
+      "font": "Inter",
+      "sample": "Hello world"
+    }
+  ],
+  "radii": [],
+  "transitions": [],
+  "maxWidths": [],
+  "sectionPadding": [],
+  "gradients": { "count": 0, "sample": "" },
+  "variableCount": 3,
+  "height": 900,
+  "sections": 1
+}
